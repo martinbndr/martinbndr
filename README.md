@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 [![](https://discord.c99.nl/widget/theme-1/618805150756110336.png)](https://discord.gg/familie)
 
-[![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinbndr)](https://github.com/anuraghazra/github-readme-stats)
+[![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinbndr&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
